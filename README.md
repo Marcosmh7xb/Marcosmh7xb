@@ -1,14 +1,20 @@
-### Ola! Me chamo Marcos Henrique 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9F79EE&height=120&section=header"/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_mh.7)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9F79EE&&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcos+Henrique;I'm+17+years+old;I'm+from+Brazil;Study+in+IF+Baiano;+Capus+Guanamb;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_mh.7)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcosmh7xb&show_icons=true&count_private=true&hide_border=true&title_color=551A8B&icon_color=9F79EE&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosmh7xb&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
 <div> 
 <a><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg"></a>
 <a><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg"></a>
 <a><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg"></a> 
 <a><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Django.svg"></a> 
-</div>
+</div> 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_mh.7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_mh.7)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9F79EE&height=120&section=footer"/>
