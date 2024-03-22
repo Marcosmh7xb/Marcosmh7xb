@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marcosmh7xb&theme=dracula&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Marcosmh7xb&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
 </p>
 
 
