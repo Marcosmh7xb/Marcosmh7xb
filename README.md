@@ -15,13 +15,13 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marcosmh7xb&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Marcosmh7xb&row=2&no-bg=true&title_color=6A5ACD&column=3&margin-w=20&margin-h=20" />
 </p>
 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcosmh7xb&show_icons=true&count_private=true&hide_border=true&title_color=551A8B&icon_color=9F79EE&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcosmh7xb&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=9F79EE&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosmh7xb&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
