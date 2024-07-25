@@ -30,6 +30,10 @@
 <div> 
 <a><img width="70px" height="70px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg"></a>
 <a><img width="70px" height="70px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg"></a>
+<a><img width="70px" height="70px" src=""></a>
+  <a><img width="70px" height="70px" src=""></a>
+  <a><img width="70px" height="70px" src=""></a>
+  <a><img width="70px" height="70px" src=""></a>
 </div> 
 
 ## Studying in this moment:
@@ -37,7 +41,9 @@
 <div> 
 <a><img width="70px" height="70px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg"></a> 
 <a><img width="70px" height="70px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Django.svg"></a> 
-<img  alt="Rafa-Js" border-radius: 40px; height="70px" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<a><img width="70px" height="70px" src=""></a>
+  <a><img width="70px" height="70px" src=""></a>
+  <a><img width="70px" height="70px" src=""></a>
 </div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9F79EE&height=120&section=footer"/>
