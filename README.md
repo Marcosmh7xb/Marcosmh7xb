@@ -26,6 +26,7 @@
 <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg"></a>
 <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Github-Dark.svg"></a>
 <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CPP.svg"></a>
+<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/java.svg"></a>
 </div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a896&height=120&section=footer"/>
