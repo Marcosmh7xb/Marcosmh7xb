@@ -8,25 +8,56 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_mh.7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcoshenriquebritosouza80@gmail.com)
 
-## Skills:
+##🐧
 
-<div> 
-<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Linux-Dark.svg"></a>
-<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg"></a>
-<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Wordpress.svg"></a>
-<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Arduino.svg"></a>
-<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg"></a>
-</div> 
+<table align="center">
+  <tr>
+    <th align="center">Backend</th>
+    <th align="center">Frontend</th>
+    <th align="center">Database</th>
+    <th align="center">DevOps</th>
+    <th align="center">Version Control</th>
+    <th align="center">IDEs</th>
+    <th align="center">OS</th>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+     <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg"></a>
+     <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CPP.svg"></a>
+      </td>
+      <td align="center" style="vertical-align: top;">
+    <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg"></a>
+    <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg"></a>
+    <br>
+    <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg"></a>
+    <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Wordpress.svg"></a>
+    </td>
+    <td align="center" style="vertical-align: top;">
+    <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Dark.svg"></a>  
+    </td>
+    <td align="center" style="vertical-align: top;">
+    </td>
+    <td align="center" style="vertical-align: top;">
+      <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg"></a>
+      <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Github-Dark.svg"></a>
+    </td>
+    <td align="center" style="vertical-align: top;">
+    <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Dark.svg"></a>
+    </td>
+    <td align="center" style="vertical-align: top;">    
+    <img height="60px" src="https://skillicons.dev/icons?i=windows,ubuntu"/>
+    <br>
+    <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/RaspberryPi-Dark.svg"></a>
+    </td>
+  </tr>
+</table>
 
 ## Studying in this moment:
 
 <div> 
-<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/RaspberryPi-Dark.svg"></a>
-<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Dark.svg"></a>
-<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg"></a>
-<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Github-Dark.svg"></a>
-<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CPP.svg"></a>
 <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Dark.svg"></a>
+<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg"></a>  
+<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LaTeX-Dark.svg"></a>  
 </div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a896&height=120&section=footer"/>
