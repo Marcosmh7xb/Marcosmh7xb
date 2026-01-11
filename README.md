@@ -18,6 +18,7 @@
     <th align="center">DevOps</th>
     <th align="center">Version Control</th>
     <th align="center">IDEs</th>
+    <th align="certer">CMS</th>
     <th align="center">OS</th>
   </tr>
   <tr>
@@ -42,8 +43,10 @@
     </td>
     <td align="center" style="vertical-align: top;">
     <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Dark.svg"></a>
-    <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Wordpress.svg"></a>
     </td>
+    <td align="center" style="vertical-align: top;">
+    <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Wordpress.svg"></a>
+    <td/>
     <td align="center" style="vertical-align: top;">    
     <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg"></a>
     <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg"></a>
