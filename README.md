@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a896&height=120&section=header"/>
+nga<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a896&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a896&&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcos+Henrique;I'm+19+years+old;I'm+from+Brazil;Study+in+IF+Baiano;+Campus+Guanambi;Be+Welcome!😁🚀)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_mh.7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcoshenriquebritosouza80@gmail.com)
 
-##🐧
+#🐧
 
 <table align="center">
   <tr>
