@@ -26,7 +26,8 @@
     <!-- Backend (2 ícones lado a lado) -->
     <td align="center" style="vertical-align: middle;">
       <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-        <img width="60" height="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg"> 
+        <img width="60" height="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg">
+         <br>
         <img width="60" height="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CPP.svg">
       </div>
     </td>
