@@ -23,13 +23,13 @@
   </tr>
 
   <tr>
-    <td align="center" style="vertical-align: top;">
-      <img width="60" height="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg">
+    <td style="vertical-align: top;">
+      <img width="60" height="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg"> 
       <img width="60" height="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CPP.svg">
     </td>
     <td align="center" style="vertical-align: top;">
       <img width="60" height="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg">
-      <img width="60" height="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg"><br>
+      <img width="60" height="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg"> <br>
       <img width="60" height="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg">
     </td>
     <td align="center" style="vertical-align: top;">
