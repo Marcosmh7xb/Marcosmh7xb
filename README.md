@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00a896&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a896&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a896&&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcos+Henrique;I'm+19+years+old;I'm+from+Brazil;Study+in+IF+Baiano;+Campus+Guanambi;Be+Welcome!😁🚀)](https://git.io/typing-svg)
 
@@ -10,12 +10,11 @@
 
 # 🐧
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
     <th align="center">Backend</th>
     <th align="center">Frontend</th>
     <th align="center">Database</th>
-    <th align="center">DevOps</th>
     <th align="center">Version Control</th>
     <th align="center">IDEs</th>
     <th align="center">CMS</th>
@@ -23,58 +22,51 @@
   </tr>
 
   <tr>
-    <!-- Backend (2 lado a lado) -->
-    <td align="center" valign="middle">
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg">&nbsp;&nbsp;
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CPP.svg">
+    <!-- Backend -->
+    <td align="center" style="vertical-align: top;">
+      <img height="800px" width="100px" src="https://skillicons.dev/icons?i=c,cpp"/>
     </td>
-    <!-- Frontend (3: 2 em cima + 1 embaixo) -->
-    <td align="center" valign="middle">
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg">&nbsp;&nbsp;
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg">
+    <!-- Frontend -->
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=html,css"/>
       <br>
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg">
+      <img height="40" src="https://skillicons.dev/icons?i=figma"/>
     </td>
     <!-- Database -->
-    <td align="center" valign="middle">
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Dark.svg">
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=mysql"/>
     </td>
-    <!-- DevOps (vazio) -->
-    <td align="center" valign="middle">
-      <!-- add icons here -->
-    </td>
-    <!-- Version Control (2 lado a lado) -->
-    <td align="center" valign="middle">
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg">&nbsp;&nbsp;
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Github-Dark.svg">
+    <!-- Version Control -->
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=git,github"/>
     </td>
     <!-- IDEs -->
-    <td align="center" valign="middle">
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Dark.svg">
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=vscode"/>
     </td>
     <!-- CMS -->
-    <td align="center" valign="middle">
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Wordpress.svg">
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=wordpress"/>
     </td>
-    <!-- OS (3: 2 em cima + 1 embaixo) -->
-    <td align="center" valign="middle">
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg">&nbsp;&nbsp;
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg">
+    <!-- OS -->
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/>
       <br>
-      <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/RaspberryPi-Dark.svg">
+      <img height="40" src="https://skillicons.dev/icons?i=raspberrypi"/>
     </td>
   </tr>
 </table>
 
+
 ## Studying in this moment:
 
-<p align="center">
-  <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Dark.svg">&nbsp;&nbsp;
-  <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg">&nbsp;&nbsp;
-  <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LaTeX-Dark.svg">
-</p>
+<div> 
+<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Dark.svg"></a> 
+<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg"></a> 
+<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LaTeX-Dark.svg"></a>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00a896&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a896&height=120&section=footer"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcosmh7xb/Marcosmh7xb/output/pacman-contribution-graph-dark.svg">
