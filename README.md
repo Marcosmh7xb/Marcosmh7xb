@@ -42,7 +42,7 @@
     </td>
     <!-- IDEs -->
     <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=vscode"/>
+      <img height="40" src="https://skillicons.dev/icons?i=vscode,arduino"/>
     </td>
     <!-- CMS -->
     <td align="center" style="vertical-align: top;">
