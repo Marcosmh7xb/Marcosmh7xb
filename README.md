@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a896&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a896&&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcos+Henrique;I'm+19+years+old;I'm+from+Brazil;Study+in+IF+Baiano;+Campus+Guanambi;Be+Welcome!😁🚀)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00A896&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Marcos+Henrique;I%27m+20+years+old;I%27m+from+Brazil;I%27m+studying+Systems+Analysis+and+Development;at+IF+Baiano+-+Campus+Guanambi;Welcome!+%F0%9F%98%81%F0%9F%9A%80)](https://git.io/typing-svg)
 <br>
 
 ## Contact:
@@ -22,46 +21,56 @@
   </tr>
 
   <tr>
-    <!-- Backend -->
-    <td align="center" style="vertical-align: top;">
-      <img height="800px" width="100px" src="https://skillicons.dev/icons?i=c,cpp"/>
-    </td>
-    <!-- Frontend -->
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=html,css"/>
-      <br>
-      <img height="40" src="https://skillicons.dev/icons?i=figma"/>
-    </td>
-    <!-- Database -->
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=mysql"/>
-    </td>
-    <!-- Version Control -->
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=git,github"/>
-    </td>
-    <!-- IDEs -->
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=vscode,arduino"/>
-    </td>
-    <!-- CMS -->
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=wordpress"/>
-    </td>
-    <!-- OS -->
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/>
-      <br>
-      <img height="40" src="https://skillicons.dev/icons?i=raspberrypi"/>
-    </td>
-  </tr>
+  <!-- Backend -->
+  <td align="center" style="vertical-align: top;">
+    <img height="60" src="https://skillicons.dev/icons?i=c,cpp" />
+    <br>
+    <img height="60" src="https://skillicons.dev/icons?i=java" />
+  </td>
+
+  <!-- Frontend -->
+  <td align="center" style="vertical-align: top;">
+    <img height="60" src="https://skillicons.dev/icons?i=html,css" />
+    <br>
+    <img height="60" src="https://skillicons.dev/icons?i=figma" />
+  </td>
+
+  <!-- Database -->
+  <td align="center" style="vertical-align: top;">
+    <img height="60" src="https://skillicons.dev/icons?i=mysql" />
+  </td>
+
+  <!-- Version Control -->
+  <td align="center" style="vertical-align: top;">
+    <img height="60" src="https://skillicons.dev/icons?i=git,github" />
+  </td>
+
+  <!-- IDEs -->
+  <td align="center" style="vertical-align: top;">
+    <img height="60" src="https://skillicons.dev/icons?i=vscode,arduino" />
+  </td>
+
+  <!-- CMS -->
+  <td align="center" style="vertical-align: top;">
+    <img height="60" src="https://skillicons.dev/icons?i=wordpress" />
+  </td>
+
+  <!-- OS -->
+  <td align="center" style="vertical-align: top;">
+    <img height="60" src="https://skillicons.dev/icons?i=windows,ubuntu" />
+    <br>
+    <img height="60" src="https://skillicons.dev/icons?i=raspberrypi" />
+  </td>
+</tr>
 </table>
 
 
 ## Studying in this moment:
 
-<div> 
-<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Dark.svg"></a> 
+<div>
+<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg"></a> 
+<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Dart-Dark.svg"></a> 
+<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Flutter-Dark.svg"></a> 
 <a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg"></a> 
 <!--c<a><img width="60px" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LaTeX-Dark.svg"></a> -->
 </div>
